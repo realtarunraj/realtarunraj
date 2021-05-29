@@ -1,7 +1,7 @@
 - 👋 Hey hello, I’m Tarun Kumar Raj.
 - 👀 I’m interested in Web Development and Designing.
 - ✨ Adittionally I'm having special Interest in Poetry writing.
-- 🌱 I’m currently learning Python.
+- 🌱 Currently I'm learning Python.
 - 💞️ I’m looking to collaborate on Web Development Project.
 - 📫 To get in touch with me, My e-mail is rajtarunkumar007@gmail.com
 
