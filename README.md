@@ -2,16 +2,16 @@
 - 👀 Currently, I'm working as a **Software Engineer**.
 
 ## My Skills ...
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java)
+[![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java)](https://www.java.com/)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&logo=spring)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-000000?style=for-the-badge&logo=spring)
-![Junit](https://img.shields.io/badge/-Junit-000000?style=for-the-badge&logo=junit)
+[![JUnit](https://img.shields.io/badge/-JUnit-000000?style=for-the-badge&logo=junit)](https://junit.org/)
 
-![Microservices](https://img.shields.io/badge/-Microservices-000000?style=for-the-badge&logo=microservices)
+[![Microservices](https://img.shields.io/badge/-Microservices-000000?style=for-the-badge)](https://en.wikipedia.org/wiki/Microservices)
+[![Rest API development](https://img.shields.io/badge/-Rest%20API%20development-000000?style=for-the-badge)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 ![Hibernate/JPA](https://img.shields.io/badge/-Hibernate%2FJPA-000000?style=for-the-badge&logo=hibernate)
-![Rest API development](https://img.shields.io/badge/-Rest%20API%20development-000000?style=for-the-badge&logo=rest)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql)
+[![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=sql)](https://en.wikipedia.org/wiki/SQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql)
 
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&logo=angular)
@@ -39,7 +39,7 @@
 [![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=for-the-badge&logo=eclipse)](https://www.eclipse.org/)
 ![Git/GitHub](https://img.shields.io/badge/-Git%2FGitHub-000000?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office)
+[![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice)](https://www.office.com/)
 
 ## Find me Here ...
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/realtarunraj/)
