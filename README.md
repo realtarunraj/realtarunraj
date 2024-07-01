@@ -1,9 +1,8 @@
 - 👋 Hello, I’m **Tarun Kumar Raj**, a B.Tech. graduate in Computer Science and Engineering.
 - 👀 Currently, I'm working as a **Software Engineer**.
 
-**Hello, I’m Tarun Kumar Raj, a B.Tech. graduate in Computer Science and Engineering.**
-
 ## My Skills
+
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=flat&logo=spring)
 ![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat&logo=microservices)
@@ -25,18 +24,17 @@
 ![Azure Fundamental](https://img.shields.io/badge/-Azure%20Fundamental-000000?style=flat&logo=microsoft-azure)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-000000?style=flat&logo=google-cloud)
 
-
 ## Most Used Languages
-![HTML5](https://img.shields.io/badge/-HTML5-71.76%25?style=for-the-badge&color=orange)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-23.40%25?style=for-the-badge&color=yellow)
-![Java](https://img.shields.io/badge/-Java-4.67%25?style=for-the-badge&color=red)
-![CSS](https://img.shields.io/badge/-CSS-0.10%25?style=for-the-badge&color=blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0.04%25?style=for-the-badge&color=lightgrey)
-![C++](https://img.shields.io/badge/-C++-0.04%25?style=for-the-badge&color=blueviolet)
+![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&color=red)
+![Java 8](https://img.shields.io/badge/-Java%208-000000?style=for-the-badge&color=darkred)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&color=yellow)
+![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&color=blue)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&color=red)
 
 ## Tools and Technologies
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)
+![Git/GitHub](https://img.shields.io/badge/-Git%2FGitHub-000000?style=flat&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office)
 
 - ✨ I'm skilled in C-Language, Java, Spring, Spring Boot, React, SQL, Web Technologies (HTML, CSS, JavaScript).
