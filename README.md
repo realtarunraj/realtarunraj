@@ -37,13 +37,16 @@
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office)
 
-- ✨ I'm skilled in C-Language, Java, Spring, Spring Boot, React, SQL, Web Technologies (HTML, CSS, JavaScript).
-- 🌱 Currently, I'm learning Microservices and Angular.js.
-- 💞️ I’m looking to collaborate on some Development Project.
-- ✨ Additionally I'm having special Interest in Poetry writing.
-- 📫 To get in touch with me, Just drop a mail on rajtarunkumar007@gmail.com
+
+## Quick Introduction
+
+- ✨ I'm skilled in Java, Java 8, Spring, Spring Boot, React, Angular SQL, REST API Development and Web Technologies (HTML, CSS, JavaScript).
+- 🌱 Currently, I'm working on a project with Java, Microservices and React.
+- 💞️ Egerly looking to collaborate on some Development Project.
+- ✨ Additionally, I'm having special Interest in Poetry writing.
+- 📫 To **Get in Touch** with me, Just drop a mail on **rajtarunkumar007@gmail.com**
 - 👋 Thank You for reaching here !!!
-- 💞️ Better Luck N̶e̶x̶t̶  This Time ...
+- 💞️ **Better Luck N̶e̶x̶t̶  This Time ...**
 
 <!---
 realtarunraj/realtarunraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
