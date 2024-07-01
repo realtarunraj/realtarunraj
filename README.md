@@ -1,7 +1,7 @@
 - 👋 Hello, I’m **Tarun Kumar Raj**, a B.Tech. graduate in Computer Science and Engineering.
 - 👀 Currently, I'm working as a **Software Engineer**.
 
-## My Skills
+## My Skills ...
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-000000?style=for-the-badge&logo=spring)
@@ -27,29 +27,30 @@
 ![Azure Fundamental](https://img.shields.io/badge/-Azure%20Fundamental-000000?style=for-the-badge&logo=microsoft-azure)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-000000?style=for-the-badge&logo=google-cloud)
 
-## Most Used Languages
+## Most Used Languages...
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&color=red)
 ![Java 8](https://img.shields.io/badge/-Java%208-000000?style=for-the-badge&color=darkred)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&color=yellow)
 ![React](https://img.shields.io/badge/-React-000000?style=for-the-badge&color=blue)
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&color=red)
 
-## Tools and Technologies
+## Tools and Technologies ...
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 [![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=for-the-badge&logo=eclipse)](https://www.eclipse.org/)
 ![Git/GitHub](https://img.shields.io/badge/-Git%2FGitHub-000000?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office)
 
-## Let's get connected
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-realtarunraj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/realtarunraj/)
-[![Twitter](https://img.shields.io/badge/Twitter-realtarunraj-blue?style=for-the-badge&logo=twitter)](https://twitter.com/realtarunraj/)
-[![Instagram](https://img.shields.io/badge/Instagram-realtarunraj-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/realtarunraj/)
-[![GitHub](https://img.shields.io/badge/GitHub-realtarunraj-blue?style=for-the-badge&logo=github)](https://github.com/realtarunraj/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-realtarunraj-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/realtarunraj/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-realtarunraj-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/realtarunraj/)
+## Find me Here ...
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/realtarunraj/)
+[![GitHub](https://img.shields.io/badge/GitHub-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/realtarunraj/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866)](https://www.hackerrank.com/realtarunraj123/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-blue?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=F89F1B)](https://leetcode.com/realtarunraj/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/realtarunraj/)
+[![Instagram](https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/realtarunraj/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/realtarunraj/)
 
-## Quick Introduction
+## Quick Introduction...
 - ✨ I'm skilled in Java, Java 8, Spring, Spring Boot, React, Angular SQL, REST API Development and Web Technologies (HTML, CSS, JavaScript).
 - 🌱 Currently, I'm working on a project with Java, Microservices and React.
 - 💞️ Egerly looking to collaborate on some Development Project.
