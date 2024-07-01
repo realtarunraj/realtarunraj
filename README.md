@@ -41,6 +41,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office)
 
+## Let's get connected
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-realtarunraj-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/realtarunraj/)
+[![Twitter](https://img.shields.io/badge/Twitter-realtarunraj-blue?style=for-the-badge&logo=twitter)](https://twitter.com/realtarunraj/)
+[![Instagram](https://img.shields.io/badge/Instagram-realtarunraj-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/realtarunraj/)
+[![GitHub](https://img.shields.io/badge/GitHub-realtarunraj-blue?style=for-the-badge&logo=github)](https://github.com/realtarunraj/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-realtarunraj-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/realtarunraj/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-realtarunraj-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/realtarunraj/)
 
 ## Quick Introduction
 - ✨ I'm skilled in Java, Java 8, Spring, Spring Boot, React, Angular SQL, REST API Development and Web Technologies (HTML, CSS, JavaScript).
