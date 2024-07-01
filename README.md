@@ -35,10 +35,11 @@
 ![Angular](https://img.shields.io/badge/-Angular-000000?style=for-the-badge&color=red)
 
 ## Tools and Technologies
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code)
-![Git/GitHub](https://img.shields.io/badge/-Git%2FGitHub-000000?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat&logo=microsoft-office)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=eclipse)
+![Git/GitHub](https://img.shields.io/badge/-Git%2FGitHub-000000?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=postman)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office)
 
 
 ## Quick Introduction
