@@ -53,7 +53,7 @@
 
 ## Quick Introduction...
 - ✨ I'm skilled in Java, Java 8, Spring, Spring Boot, React, Angular SQL, REST API Development and Web Technologies (HTML, CSS, JavaScript).
-- 🌱 Currently, I'm working on a project with Java, Microservices and React.
+- 🌱 Currently, I'm looking for new oppertunity in Java FUll Stack Devlopment (Java, Spring Boot, REST, SQL & Angular).
 - 💞️ Egerly looking to collaborate on some Development Project.
 - ✨ Additionally, I'm having special Interest in Poetry writing.
 - 📫 To **Get in Touch** with me, Just drop a mail on **rajtarunkumar007@gmail.com**
