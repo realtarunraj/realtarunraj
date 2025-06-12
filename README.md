@@ -1,5 +1,5 @@
 - 👋 Hello, I’m **Tarun Kumar Raj**, a B.Tech. graduate in Computer Science and Engineering.
-- 👀 Currently, I'm working at Capgemini India Pvt Ltd as a **Software Engineer** having 2.5 years of experience in Java Full Stack Devlopment.
+- 👀 Currently, I'm working at **Capgemini India Pvt Ltd** as a **Software Engineer** having 2.5 years of experience in Java Full Stack Devlopment.
 
 ## My Skills ...
 [![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)](https://www.java.com/)
